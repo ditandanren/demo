@@ -44,5 +44,5 @@
                 android:value=".tasks.TasksActivity" />
         </activity>
     </application>
-
+    <!--v1.0.1-->
 </manifest>
